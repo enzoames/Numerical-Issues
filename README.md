@@ -1,6 +1,7 @@
 # Numerical Analysis in Scientific Computation
 
-Newton_Lagrange_Interpolation
+##Newton_Lagrange_Interpolation
+
 	- Newton’s divided differences interpolation polynomial. For any finite set
 		of data points there is only one polynomial that passes through all the
 		points.
@@ -9,12 +10,12 @@ Newton_Lagrange_Interpolation
 		passes through all the points (n is the total number of interpolation points)  
 
 
-Cubic_Interpolation
+##Cubic_Interpolation
 	- The cubic spline is constructed of piecewise third-order polynomials which
 		passes through all the given points
 
 
-Composite_Rules
+##Composite_Rules
 	-	Given a definite integral, approximate the the integral with by using the
 		Trapezoidal, Simpson, and Gaussian Quadrature Rules.
 
